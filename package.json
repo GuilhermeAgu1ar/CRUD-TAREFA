@@ -1,0 +1,12 @@
+{
+  "name": "crud-tarefas",
+  "version": "1.0.0",
+  "description": "CRUD Tarefas",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "Guilherme Aguiar Moreira",
+  "license": "ISC"
+}
